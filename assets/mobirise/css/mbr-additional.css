@@ -711,13 +711,15 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkA127IK8 {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/4.1-1920x1080.png");
 }
 .cid-qTkA127IK8 H1 {
   color: #ba0e17;
 }
 .cid-s1a75krDZ4 {
-  padding-top: 90px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/5.1-1920x1080.png");
 }
