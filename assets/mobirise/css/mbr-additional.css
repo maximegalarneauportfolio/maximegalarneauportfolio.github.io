@@ -3817,6 +3817,29 @@ section.lazy-placeholder:after {
 .cid-s0ibg23pak .mbr-section-subtitle {
   color: #ba0e17;
 }
+.cid-s3CbkdRHB5 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-s3CbkdRHB5 .line {
+  background-color: #e1101b;
+  color: #e1101b;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3CbkdRHB5 .section-text {
+  padding: 2rem 0;
+}
+.cid-s3CbkdRHB5 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3CbkdRHB5 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-s0ibg4U1o6 {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -4680,6 +4703,29 @@ section.lazy-placeholder:after {
 }
 .cid-s0BiiJcSLX .mbr-section-subtitle {
   color: #f16c10;
+}
+.cid-s3CaOsMSqs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s3CaOsMSqs .line {
+  background-color: #b3510d;
+  color: #b3510d;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3CaOsMSqs .section-text {
+  padding: 2rem 0;
+}
+.cid-s3CaOsMSqs .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3CaOsMSqs .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-s0BiiK84il {
   padding-top: 90px;
@@ -5719,6 +5765,29 @@ section.lazy-placeholder:after {
 .cid-s0FUMgtaxb .mbr-section-subtitle {
   color: #cc4bba;
 }
+.cid-s3CC0lyWu9 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s3CC0lyWu9 .line {
+  background-color: #d613bb;
+  color: #d613bb;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3CC0lyWu9 .section-text {
+  padding: 2rem 0;
+}
+.cid-s3CC0lyWu9 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3CC0lyWu9 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-s0FUMhCn8H {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -6622,6 +6691,29 @@ section.lazy-placeholder:after {
 }
 .cid-s1bbJ1lv0E .mbr-section-subtitle {
   color: #149dcc;
+}
+.cid-s3CbZR3N9b {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-s3CbZR3N9b .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3CbZR3N9b .section-text {
+  padding: 2rem 0;
+}
+.cid-s3CbZR3N9b .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3CbZR3N9b .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-s1bbJ27rZ6 {
   padding-top: 90px;
