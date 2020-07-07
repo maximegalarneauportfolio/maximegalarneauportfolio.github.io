@@ -8545,6 +8545,7 @@ section.lazy-placeholder:after {
 }
 .cid-s3Y0SKV2NN P {
   color: #efefef;
+  text-align: left;
 }
 .cid-s3Y0SKV2NN H4 {
   color: #edb611;
@@ -8776,6 +8777,29 @@ section.lazy-placeholder:after {
 }
 .cid-s3ZrzqA03H H4 {
   color: #edb611;
+}
+.cid-s44ty6Rgta {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s44ty6Rgta .line {
+  background-color: #edb611;
+  color: #edb611;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s44ty6Rgta .section-text {
+  padding: 2rem 0;
+}
+.cid-s44ty6Rgta .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s44ty6Rgta .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-s3YwEVestx {
   padding-top: 30px;
